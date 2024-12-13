@@ -1,4 +1,7 @@
-# MdOvi
+<header style= "width:100%; height :10px";>
+<img src="WhatsApp Image 2024-12-13 at 14.07.27_53648f88.jpg" style ="width:100%; height: 20%;"/>
+</header>
+  # MdOvi
 ## About Me
 
 Hello! 👋 I am Md Arafat Hossain Ovi, a Computer Science Student passionate about developing innovative solutions to real-world problems. My interests lie in software development, artificial intelligence, and cybersecurity. 
